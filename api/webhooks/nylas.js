@@ -20,7 +20,7 @@ export default function handler(request, response) {
     const options = {
       hostname: 'hooks.zapier.com',
       port: 443,
-      path: '/hooks/catch/2303567/22q1emq/',
+      path: '/hooks/catch/2303567/22q1vtw/',
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
